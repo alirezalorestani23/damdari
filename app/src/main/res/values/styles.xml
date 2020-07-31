@@ -7,5 +7,10 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="titles">
+        <item name="fontFamily">@font/b_yekan</item>
+        <item name="android:textSize">30dp</item>
+
+    </style>
 
 </resources>
